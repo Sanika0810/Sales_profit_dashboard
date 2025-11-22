@@ -1,16 +1,16 @@
-Sales & Profit Dashboard (Excel)
+## **Sales & Profit Dashboard (Excel)**
 
 Problem Statement
 
 The company has raw sales data but lacks a clear view of performance across regions, products, customers, and states.
 A dashboard is needed to quickly analyze sales, profit, orders, and product performance.
 
-Project Overview
+## **Project Overview**
 
 This project converts raw sales data into an interactive Excel dashboard using Pivot Tables, Pivot Charts, and Slicers.
 The dashboard provides a quick understanding of business KPIs, region performance, product profitability, and shipment distribution.
 
-Dataset Summary
+## **Dataset Summary**
 
 ⦁	Total Records: 1952 orders
 
@@ -18,7 +18,7 @@ Dataset Summary
 
 ⦁	Purpose: Analyze sales & profit trends across different business dimensions
 
-Dashboard Highlights
+## **Dashboard Highlights**
 
 ⦁	KPIs: Total Sales, Total Profit, Total Orders, Return Rate
 
@@ -36,7 +36,7 @@ Dashboard Highlights
 
 ⦁	These visuals help stakeholders quickly understand what’s performing well and what needs attention.
 
-Tools Used
+## **Tools Used**
 
 ⦁	Microsoft Excel
 
@@ -46,7 +46,7 @@ Tools Used
 
 ⦁	KPI Cards
 
-How to Use
+## **How to Use**
 
 ⦁	Download the repository.
 
