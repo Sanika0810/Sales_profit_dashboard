@@ -44,11 +44,3 @@ Pivot Tables & Pivot Charts
 Slicers
 
 KPI Cards
-
-How to Use
-
-Open Q7.Dashboard.xlsx
-
-Use slicers to filter by customer segment, product category, or ship mode
-
-Explore charts to understand sales, profit, and region performance
