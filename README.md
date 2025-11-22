@@ -1,6 +1,6 @@
 ## **Sales & Profit Dashboard (Excel)**
 
-Problem Statement
+## **Problem Statement**
 
 The company has raw sales data but lacks a clear view of performance across regions, products, customers, and states.
 A dashboard is needed to quickly analyze sales, profit, orders, and product performance.
